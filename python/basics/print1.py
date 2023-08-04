@@ -1,0 +1,6 @@
+print("the books that help you most are those")
+print("\twhich make you think that most")
+print("\t\tthe harderst way of learning is that is reading")
+print("\t\tbut a great book that comes from a")
+print("\tgreat thinker is a ship of thought deep")
+print("the books that help you most are those")
