@@ -4,7 +4,7 @@ last_name=input("enter the last name::")
 
 
 print(last_name,first_name)
-
+"""
 #2write aprogram to
 #sample data:3,5,7,23
 
